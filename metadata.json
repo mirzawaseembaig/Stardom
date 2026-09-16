@@ -1,0 +1,6 @@
+{
+  "name": "Stardom Studio",
+  "description": "Create, record, synchronize lyrics, and publish karaoke song tracks inspired by StarMaker Studio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
